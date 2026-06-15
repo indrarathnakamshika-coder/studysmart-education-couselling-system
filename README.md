@@ -92,7 +92,7 @@ The system works by collecting student preferences (such as interests, career go
    `C:\xampp\htdocs\studysmart`
 3. Start Apache and MySQL in XAMPP
 4. Import database file:
-   `database/studysmart.sql`
+   `database/studysmart_db.sql`
 5. Open browser and run:
    `http://localhost/studysmart`
 ## 🔐 Sample Login Details
